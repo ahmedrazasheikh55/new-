@@ -1,0 +1,27 @@
+body {
+    background-color: #CFD8DC;
+    text-align: center;}
+.dis{
+    font-weight: 400;
+    font-size: 180px;
+    margin: 0px auto;
+    padding: 0%;
+    background-color: #90a4ae;
+    text-shadow: 3px 4px 2px rgb(90, 90, 90);
+    #263238;
+}
+.heading{
+    font-size: 40px;
+    color:black;
+    background-color: #455a64;
+}
+.dd{
+    font-size: 20px;
+border: 10px;}
+.pic{
+    padding-bottom: 5px;
+}    
+span~a{ font-size: larger;
+
+}
+    
